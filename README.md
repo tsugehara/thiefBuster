@@ -1,8 +1,12 @@
-# 泥棒バスター
+# 泥棒ニコモバスター
 
-[Akashic Engine](https://akashic-games.github.io/) で作られたミニゲームです。
+[Akashic Engine](https://akashic-games.github.io/) で作られたミニゲームである[泥棒バスター](https://github.com/akashic-contents/thiefBuster)を改造したゲームです。
 
 ![スクリーンショット](./img/screenshot.png)
+
+このゲームの改造の流れは、以下の記事で公開されています。
+
+- https://dwango.github.io/niconico/jikken-housou/akashic-content1/
 
 ## ビルドと実行方法
 

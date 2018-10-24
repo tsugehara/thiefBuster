@@ -1,5 +1,5 @@
 {
-  "name": "@akashic-contents/thiefBuster",
+  "name": "@akashic-contents/thiefBuster-nicomoba",
   "version": "0.0.0",
   "private": true,
   "description": "Akashic Engine製ゲーム・泥棒バスター",
@@ -22,7 +22,7 @@
   "author": "DWANGO Co., Ltd.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akashic-contents/thiefBuster.git"
+    "url": "https://github.com/akashic-contents/thiefBuster-nicomoba.git"
   },
   "license": "MIT",
   "files": [
@@ -56,5 +56,9 @@
   "dependencies": {
     "@akashic-extension/akashic-animation": "2.7.1",
     "@akashic-extension/akashic-timeline": "0.4.4"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/akashic-contents/thiefBuster-nicomoba/issues"
+  },
+  "homepage": "https://github.com/akashic-contents/thiefBuster-nicomoba#readme"
 }
